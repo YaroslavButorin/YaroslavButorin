@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Мое резюме:
- - [Резюме]([X](https://github.com/YaroslavButorin/YaroslavButorin/blob/main/Butorin%20Yaroslav%20Olegovich.pdf))
+ - [Резюме](https://github.com/YaroslavButorin/YaroslavButorin/blob/main/Butorin%20Yaroslav%20Olegovich.pdf)
