@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 Яндекс.Практикум: Специалист по Data Science - <b>Текущий</b>
 
 # Проекты:
-## Курсовые работы:
 ## Аналитика:
 <details open>
   <summary>Список проектов по теме</summary>
