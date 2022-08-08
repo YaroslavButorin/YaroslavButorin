@@ -13,7 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 # Мое резюме:
-19
- - [Резюме](X)
+ - [Резюме]([X](https://github.com/YaroslavButorin/YaroslavButorin/blob/main/Butorin%20Yaroslav%20Olegovich.pdf))
