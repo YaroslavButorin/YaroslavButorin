@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 -->
 # Мое резюме:
  - [Резюме](https://github.com/YaroslavButorin/YaroslavButorin/blob/main/Butorin%20Yaroslav%20Olegovich.pdf)
+# Сертификаты
+Яндекс.Практикум: Специалист по Data Science - <b>Текущий</b>
+
