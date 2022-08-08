@@ -18,3 +18,20 @@ Here are some ideas to get you started:
 # Сертификаты
 Яндекс.Практикум: Специалист по Data Science - <b>Текущий</b>
 
+# Проекты:
+## Курсовые работы:
+<details open>
+  <summary>Список проектов по теме</summary>
+<table>
+<tr>
+  <th>Название проекта</th>
+  <th>Источник проекта</th>
+  <th>Описание</th>
+  <th>Статус проекта</th>
+</tr> 
+<tr>
+  <td><a href = "x">example</a></td>
+  <td>example</td>
+  <td>example</td>
+  <td>Завершен</td>
+
