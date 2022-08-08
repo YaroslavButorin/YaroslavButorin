@@ -30,8 +30,8 @@ Here are some ideas to get you started:
   <th>Статус проекта</th>
 </tr> 
 <tr>
-  <td><a href = "x">example</a></td>
-  <td>example</td>
-  <td>example</td>
+  <td><a href = "x">Исследование надёжности заёмщиков</a></td>
+  <td>Яндекс.Практикум</td>
+  <td>	Определить влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок</td>
   <td>Завершен</td>
-
+</tr>
