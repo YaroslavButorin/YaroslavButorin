@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 # Проекты:
 ## Курсовые работы:
+## Аналитика:
 <details open>
   <summary>Список проектов по теме</summary>
 <table>
