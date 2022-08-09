@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <th>Статус проекта</th>
 </tr> 
 <tr>
-  <td><a href = "[x](https://github.com/YaroslavButorin/Data-preparation-for-credit-scoring/blob/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%D0%B4%D1%91%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B7%D0%B0%D1%91%D0%BC%D1%89%D0%B8%D0%BA%D0%BE%D0%B2.ipynb)">Исследование надёжности заёмщиков</a></td>
+  <td><a href = "https://github.com/YaroslavButorin/Data-preparation-for-credit-scoring/blob/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%D0%B4%D1%91%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B7%D0%B0%D1%91%D0%BC%D1%89%D0%B8%D0%BA%D0%BE%D0%B2.ipynb">Исследование надёжности заёмщиков</a></td>
   <td>Яндекс.Практикум</td>
   <td>	Определить влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок</td>
   <td>Завершен</td>
