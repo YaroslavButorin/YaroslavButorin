@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  - [Резюме](https://github.com/YaroslavButorin/YaroslavButorin/blob/main/Butorin%20Yaroslav%20Olegovich.pdf)
 # Сертификаты
 Яндекс.Практикум: Специалист по Data Science - <b>Текущий</b>
-
+# Все проекты приватные. Некоторые разработки публичные. Если есть интерес к чему либо, пишите в телеграм, почту.
 # Проекты:
 ## Аналитика:
 <details open>
