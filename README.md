@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <td>Завершен</td>
 </tr>
 <tr>
-  <td><a href = "x"</a>Исследование объявлений о продаже квартир</td>
+  <td><a href = "https://github.com/YaroslavButorin/Data-preparation-and-visualize-for-estate-market/blob/main/research_estate_market.ipynb"</a>Исследование объявлений о продаже квартир</td>
   <td>Яндекс.Практикум</td>
   <td>В моем распоряжении данные сервиса Яндекс.Недвижимость — архив объявлений о продаже квартир в Санкт-Петербурге и соседних населённых пунктах за несколько лет. Нужно научиться определять рыночную стоимость объектов недвижимости</td>
   <td>Завершен</td>
