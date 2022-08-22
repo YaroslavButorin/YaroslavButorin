@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 </tr> 
   
 <tr>
-  <td><a href = "x">Прогнозирование прибыли от нефтяных скважин</a></td>
+  <td><a href = "https://github.com/YaroslavButorin/Profit-prediction-upon-oil">Прогнозирование прибыли от нефтяных скважин</a></td>
   <td>Яндекс.Практикум</td>
   <td>Нужно решить, где бурить новую нефтяную скважину для получения наибольшей прибыли</td>
   <td>Завершен</td>
