@@ -133,6 +133,24 @@ Here are some ideas to get you started:
 </tr>
 </table>
 </details>
+
+<details open>
+  <summary>Компьютерное зрение</summary>
+<table>
+<tr>
+  <th>Название проекта</th>
+  <th>Источник проекта</th>
+  <th>Описание</th>
+  <th>Статус проекта</th>
+</tr> 
+ <tr>
+  <td><a href = "x">-</a></td>
+  <td>-</td>
+  <td>-</td>
+  <td>-</td>
+</tr>
+</table>
+</details>
  
  # E-commerce development:
  <details open>
