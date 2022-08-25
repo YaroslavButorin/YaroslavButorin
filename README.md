@@ -173,6 +173,13 @@ Here are some ideas to get you started:
   <td>Завершен</td>
 </tr>
  
+ <tr>
+  <td><a href = "https://github.com/YaroslavButorin/ozon_wb_sync">Синхронизация остатков между WB и OZON</a></td>
+  <td>-</td>
+  <td>Синхронизация остатков между WB и OZON</td>
+  <td>Завершен</td>
+</tr>
+ 
  </table>
 </details>
 
