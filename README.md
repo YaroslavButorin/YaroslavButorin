@@ -173,9 +173,28 @@ Here are some ideas to get you started:
   <td>Завершен</td>
 </tr>
  
-
  </table>
 </details>
+
+<details open>
+  <summary>OZON</summary>
+<table>
+<tr>
+  <th>Название проекта</th>
+  <th>Источник проекта</th>
+  <th>Описание</th>
+  <th>Статус проекта</th>
+</tr> 
+  
+<tr>
+  <td><a href = "https://github.com/YaroslavButorin/Toxic-Tweets">Парсинг реальных наименований на ОЗОН </a></td>
+  <td>OZON</td>
+  <td>Позволяет спарсить реальные название карточек то есть те что указал селлер. Можно парсить как категории так и конкретных продавцов.</td>
+  <td>Завершен</td>
+</tr>
+</table>
+</details>
+
 
  # Различные разработки:
  <details open>
