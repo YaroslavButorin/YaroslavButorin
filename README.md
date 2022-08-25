@@ -177,7 +177,7 @@ Here are some ideas to get you started:
   <td><a href = "https://github.com/YaroslavButorin/ozon_wb_sync">Синхронизация остатков между WB и OZON</a></td>
   <td>-</td>
   <td>Синхронизация остатков между WB и OZON</td>
-  <td>Завершен</td>
+  <td>Завершен|обновляется</td>
 </tr>
  
  </table>
