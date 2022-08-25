@@ -195,6 +195,25 @@ Here are some ideas to get you started:
 </table>
 </details>
 
+<details open>
+ <summary><b>wildberries</b></summary>
+<table>
+<tr>
+  <th>Название проекта</th>
+  <th>Источник проекта</th>
+  <th>Описание</th>
+  <th>Статус проекта</th>
+</tr> 
+  
+<tr>
+  <td><a href = "https://github.com/YaroslavButorin/wb"></a></td>
+  <td>wildberries</td>
+  <td></td>
+  <td>Завершен</td>
+</tr>
+</table>
+</details>
+
 
  # Различные разработки:
  <details open>
