@@ -146,7 +146,7 @@ Here are some ideas to get you started:
 </tr>
  
  <tr>
-  <td><a href = "https://github.com/YaroslavButorin/parsing"></a>Парсинг</td>
+  <td><a href = "https://github.com/YaroslavButorin/parsin">Парсинг</a></td>
   <td>ЧК СЛАВА</td>
   <td>Сборник скриптов для парсинга различных магазинов/сайтов, сбор атрибутов/фотографий/видео и т.д.</td>
   <td>Дополняется</td>
