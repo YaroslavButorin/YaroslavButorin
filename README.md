@@ -180,6 +180,13 @@ Here are some ideas to get you started:
   <td>Завершен|обновляется</td>
 </tr>
  
+ <tr>
+  <td><a href = "https://github.com/YaroslavButorin/price_telegram_bot">Телеграмм бот</a></td>
+  <td>ЧК СЛАВА</td>
+  <td>Телеграмм бот для оперативного получения прайс-листов поставщиков</td>
+  <td>Завершен</td>
+</tr>
+ 
  </table>
 </details>
 
