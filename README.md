@@ -155,7 +155,7 @@ Here are some ideas to get you started:
  </table>
 </details>
 
- # Различные разаботки:
+ # Различные разработки:
  <details open>
   <summary>Список по теме</summary>
 <table>
