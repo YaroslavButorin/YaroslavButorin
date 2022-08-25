@@ -166,6 +166,13 @@ Here are some ideas to get you started:
   <td>Дополняется</td>
 </tr>
  
+ <tr>
+  <td><a href = "https://github.com/YaroslavButorin/feed_to_xlsx">Конвертер YML в Excel</a></td>
+  <td>ЧК СЛАВА</td>
+  <td>Конвертирует фид yml в xlsx</td>
+  <td>Завершен</td>
+</tr>
+ 
 
  </table>
 </details>
