@@ -159,6 +159,13 @@ Here are some ideas to get you started:
   <td>Завершен</td>
 </tr>
  
+ <tr>
+  <td><a href = "https://github.com/YaroslavButorin/price_list_automation">Автоматическая обработка прайс-листов</a></td>
+  <td>ЧК СЛАВА</td>
+  <td>Сборник скриптов для автоматической обработки прайс-листов с YML или почты.</td>
+  <td>Дополняется</td>
+</tr>
+ 
 
  </table>
 </details>
