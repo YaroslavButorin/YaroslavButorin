@@ -177,7 +177,7 @@ Here are some ideas to get you started:
 </details>
 
 <details open>
-  <summary>OZON</summary>
+ <summary><b>OZON</b></summary>
 <table>
 <tr>
   <th>Название проекта</th>
