@@ -241,11 +241,29 @@ Here are some ideas to get you started:
   <td><a href = "https://github.com/YaroslavButorin/wb"></a></td>
   <td>wildberries</td>
   <td></td>
-  <td>Завершен</td>
+  <td>Проекты на стадии подготовки</td>
 </tr>
 </table>
 </details>
 
+<details open>
+ <summary><b>Aliexpress</b></summary>
+<table>
+<tr>
+  <th>Название проекта</th>
+  <th>Источник проекта</th>
+  <th>Описание</th>
+  <th>Статус проекта</th>
+</tr> 
+  
+<tr>
+  <td><a href = "https://github.com/YaroslavButorin/wb"></a></td>
+  <td>Aliexpress</td>
+  <td></td>
+  <td>Проекты на стадии подготовки</td>
+</tr>
+</table>
+</details>
 
  # Различные разработки:
  <details open>
