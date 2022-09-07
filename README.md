@@ -264,4 +264,11 @@ Here are some ideas to get you started:
   <td>Войс чат для чата на твиче. Позволяет озвучивать входящие сообщения. Для тех кто одинок и кому нет смысла смотреть глазами чат. Голоса берутся из windows, чтоб их получить раскоментируйте код.</td>
   <td>Завершено</td>
 </tr>
+
+ <tr>
+  <td><a href = "https://github.com/YaroslavButorin/HH_resume_update">Автоподнятие резюме на HH.RU</a></td>
+  <td>HH.RU</td>
+  <td>Автоподнятие резюме на HH.RU</td>
+  <td>Завершено</td>
+</tr>
  
