@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Мое резюме:
- - [Резюме](https://github.com/YaroslavButorin/YaroslavButorin/blob/main/Butorin yaroslav olegovich.pdf)
+ - [Резюме](https://github.com/YaroslavButorin/YaroslavButorin/blob/main/Butorin%20yaroslav%20olegovich.pdf)
 # Сертификаты
 Яндекс.Практикум: Специалист по Data Science - <b>Текущий, окончание в октябре 2022</b>
 ### Все проекты приватные. Некоторые разработки публичные. Если есть интерес к чему либо, пишите в телеграм, почту.
