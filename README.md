@@ -144,7 +144,7 @@ Here are some ideas to get you started:
   <th>Статус проекта</th>
 </tr> 
  <tr>
-  <td>Определение возраста по фотографии<a href = "x">-</a></td>
+  <td><a href = "https://github.com/YaroslavButorin/age_detection">Определение возраста по фотографии</a></td>
   <td>-</td>
   <td>-</td>
   <td>-</td>
