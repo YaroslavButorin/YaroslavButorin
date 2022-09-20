@@ -144,7 +144,7 @@ Here are some ideas to get you started:
   <th>Статус проекта</th>
 </tr> 
  <tr>
-  <td><a href = "x">-</a></td>
+  <td>Определение возраста по фотографии<a href = "x">-</a></td>
   <td>-</td>
   <td>-</td>
   <td>-</td>
