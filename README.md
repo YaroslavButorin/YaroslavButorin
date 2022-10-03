@@ -240,8 +240,8 @@ Here are some ideas to get you started:
 <tr>
   <td><a href = "https://github.com/YaroslavButorin/wb"></a></td>
   <td>wildberries</td>
-  <td></td>
-  <td>Проекты на стадии подготовки</td>
+  <td>Скрипт для отправки сообщения в группу в телеграмме о новых сборочных заданиях.</td>
+  <td>Завершен</td>
 </tr>
 </table>
 </details>
@@ -257,7 +257,7 @@ Here are some ideas to get you started:
 </tr> 
   
 <tr>
-  <td><a href = "https://github.com/YaroslavButorin/wb"></a></td>
+  <td><a href = "https://github.com/YaroslavButorin/wb">https://github.com/YaroslavButorin/wb_alert</a></td>
   <td>Aliexpress</td>
   <td></td>
   <td>Проекты на стадии подготовки</td>
