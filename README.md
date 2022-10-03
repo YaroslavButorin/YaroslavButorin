@@ -238,7 +238,7 @@ Here are some ideas to get you started:
 </tr> 
   
 <tr>
-  <td><a href = "https://github.com/YaroslavButorin/wb_alert"></a>Уведомления о заказах</td>
+  <td><a href = "https://github.com/YaroslavButorin/wb_alert">Уведомления о заказах</a></td>
   <td>wildberries</td>
   <td>Скрипт для отправки сообщения в группу в телеграмме о новых сборочных заданиях.</td>
   <td>Завершен</td>
