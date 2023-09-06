@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 # Сертификаты
 <a href='https://github.com/YaroslavButorin/YaroslavButorin/blob/main/Yaroslav%20Butorin_20222DS00558.pdf'>Яндекс.Практикум: Специалист по Data Science</a>
 ### Все проекты приватные. Некоторые разработки публичные. Если есть интерес к чему либо, пишите в телеграм, почту.
+<img src='https://img2.joyreactor.cc/pics/post/full/it-%D1%8E%D0%BC%D0%BE%D1%80-geek-%D0%B3%D0%B8%D1%82%D1%85%D0%B0%D0%B1-%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-7574667.png' >
+
 # Проекты:
 ## Аналитика:
 <details open>
