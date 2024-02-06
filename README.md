@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-# Проекты Python-разработчик плюс(yandex practicum):
+# Проекты Python-разработчик плюс:
 <details open>
   <summary>Список проектов по теме</summary>
 <table>
@@ -37,10 +37,22 @@ Here are some ideas to get you started:
   <td>Программный модуль фитнес-трекера, который обрабатывает данные для трёх видов тренировок: бега, спортивной ходьбы и плавания</td>
   <td>Завершен</td>
 </tr>
+ <tr>
+  <td><a href = "https://github.com/YaroslavButorin/hw05_final">Соцсеть Yatube</a></td>
+  <td>Яндекс.Практикум</td>
+  <td>Социальная сеть блогеров. Повзоляет написание постов и публикации их в отдельных группах, подписки на посты, добавление и удаление записей и их комментирование. Подписки на любимых блогеров.</td>
+  <td>Завершен</td>
+</tr>
+ <tr>
+  <td><a href = "https://github.com/YaroslavButorin/api_final_yatube">Реализация API для модулей приложения YaTube</a></td>
+  <td>Яндекс.Практикум</td>
+  <td>Проект создавался для отработки написания API для сайта. Для реализации проекта была представлена документация API, по которой было необходимо настроить API сайта</td>
+  <td>Завершен</td>
+</tr>
 </table>
 </details>
 
-# Проекты Data science(yandex practicum):
+# Проекты Data science:
 ## Аналитика:
 <details open>
   <summary>Список проектов по теме</summary>
