@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # Сертификаты
 <a href='https://github.com/YaroslavButorin/YaroslavButorin/blob/main/Yaroslav%20Butorin_20222DS00558.pdf'>Яндекс.Практикум: Специалист по Data Science</a><br>
 <a href='https://github.com/YaroslavButorin/YaroslavButorin/blob/main/Yaroslav%20Butorin_20242BEP00045.pdf'>Яндекс.Практикум: Python-разработчик +</a><br>
-<a href="https://github.com/YaroslavButorin/YaroslavButorin/blob/main/sprint_23v3_1683665870%20(1).png">Полная карта нвыков python-developer</a>
+<a href="https://github.com/YaroslavButorin/YaroslavButorin/blob/main/sprint_23v3_1683665870%20(1).png">Полная карта навыков python-developer</a>
 
 
 # Проекты Python-разработчик плюс:
