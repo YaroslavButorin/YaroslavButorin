@@ -2,9 +2,6 @@
 <!--
 **YaroslavButorin/YaroslavButorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<style>
-div.container {background-color: powderblue;}
-</style>
 
 # Мое резюме:
  - [Резюме](https://github.com/YaroslavButorin/YaroslavButorin/blob/main/Butorin%20yaroslav%20olegovich.pdf)
