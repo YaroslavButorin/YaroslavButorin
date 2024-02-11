@@ -2,10 +2,6 @@
 <!--
 **YaroslavButorin/YaroslavButorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<style>
-div.container {background-color: powderblue;}
-</style>
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -21,10 +17,18 @@ Here are some ideas to get you started:
 # Мое резюме:
  - [Резюме](https://github.com/YaroslavButorin/YaroslavButorin/blob/main/Butorin%20yaroslav%20olegovich.pdf)
 # Сертификаты
-<div class='container'
-<a href='https://github.com/YaroslavButorin/YaroslavButorin/blob/main/Yaroslav%20Butorin_20222DS00558.pdf'>Яндекс.Практикум: Специалист по Data Science</a><br>
-<a href='https://github.com/YaroslavButorin/YaroslavButorin/blob/main/Yaroslav%20Butorin_20242BEP00045.pdf'>Яндекс.Практикум: Python-разработчик +</a>
-<img style='height: 200px;' src='https://github.com/YaroslavButorin/YaroslavButorin/blob/main/sprint_23v3_1683665870%20(1).png' >
+
+
+<style>
+    div.container {
+        background-color: powderblue;
+    }
+</style>
+
+<div class='container'>
+    <a href='https://github.com/YaroslavButorin/YaroslavButorin/blob/main/Yaroslav%20Butorin_20222DS00558.pdf'>Яндекс.Практикум: Специалист по Data Science</a><br>
+    <a href='https://github.com/YaroslavButorin/YaroslavButorin/blob/main/Yaroslav%20Butorin_20242BEP00045.pdf'>Яндекс.Практикум: Python-разработчик +</a>
+    <img style='height: 200px;' src='https://github.com/YaroslavButorin/YaroslavButorin/blob/main/sprint_23v3_1683665870%20(1).png'>
 </div>
 
 
