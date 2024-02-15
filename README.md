@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 # Проекты Data science:
 ## Аналитика:
-<details open>
+<details>
   <summary>Список проектов по теме</summary>
 <table>
 <tr>
@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 </details>
 
 ## Регрессия:
-<details open>
+<details>
   <summary>Список проектов по теме</summary>
 <table>
 <tr>
@@ -130,7 +130,7 @@ Here are some ideas to get you started:
 </details>
 
 ## Классификация:
-<details open>
+<details>
   <summary>Список проектов по теме</summary>
 <table>
 <tr>
@@ -156,7 +156,7 @@ Here are some ideas to get you started:
 </table>
 </details>
 
-<details open>
+<details>
   <summary>Анализ текстов (NLP)</summary>
 <table>
 <tr>
@@ -175,7 +175,7 @@ Here are some ideas to get you started:
 </table>
 </details>
 
-<details open>
+<details>
   <summary>Компьютерное зрение</summary>
 <table>
 <tr>
