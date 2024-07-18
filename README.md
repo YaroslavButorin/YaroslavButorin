@@ -22,6 +22,25 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/YaroslavButorin/YaroslavButorin/blob/main/sprint_23v3_1683665870%20(1).png">Полная карта навыков python-developer</a>
 
+# Проекты SQL для разработки:
+<details open>
+  <summary>Список проектов по теме</summary>
+<table>
+<tr>
+  <th>Название проекта</th>
+  <th>Источник проекта</th>
+  <th>Задача</th>
+  <th>Статус проекта</th>
+</tr> 
+<tr>
+  <td><a href = "https://github.com/YaroslavButorin/Car-dealership-Vroom-Boom-">Автосалон «Врум-Бум»</a></td>
+  <td>Яндекс.Практикум</td>
+  <td>Ваша задача — нормализовать и структурировать существующие сырые данные, а потом написать несколько запросов для получения информации из БД.</td>
+  <td>Завершен</td>
+</tr>
+
+</table>
+</details>
 
 # Проекты Python-разработчик плюс:
 <details open>
