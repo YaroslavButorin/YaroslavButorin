@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # Мое резюме:
- - [Резюме](https://github.com/YaroslavButorin/YaroslavButorin/blob/main/Butorin%20yaroslav%20olegovich.pdf)
+ - [Резюме](https://github.com/YaroslavButorin/YaroslavButorin/blob/main/%D0%91%D1%83%D1%82%D0%BE%D1%80%D0%B8%D0%BD%20%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%20(7).pdf)
 # Сертификаты
 <a href='https://github.com/YaroslavButorin/YaroslavButorin/blob/main/Yaroslav%20Butorin_20222DS00558.pdf'>Яндекс.Практикум: Специалист по Data Science</a><br>
 <a href='https://github.com/YaroslavButorin/YaroslavButorin/blob/main/Yaroslav%20Butorin_20242BEP00045.pdf'>Яндекс.Практикум: Python-разработчик +</a><br>
