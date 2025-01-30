@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 # Сертификаты
 <a href='https://github.com/YaroslavButorin/YaroslavButorin/blob/main/Yaroslav%20Butorin_20222DS00558.pdf'>Яндекс.Практикум: Специалист по Data Science</a><br>
 <a href='https://github.com/YaroslavButorin/YaroslavButorin/blob/main/Yaroslav%20Butorin_20242BEP00045.pdf'>Яндекс.Практикум: Python-разработчик +</a><br>
+<a href='https://stepik.org/cert/2717806'>STEPIC: Добрый, добрый Python с Сергеем Балакиревым</a><br>
+<a href='https://github.com/YaroslavButorin/YaroslavButorin/blob/main/Сertificate_ENG_Буторин_2024-8246-002.pdf'>Яндекс.Практикум: Certificate of Completionof the “SQL for Development” Professional Training Course
+</a><br>
 
 <a href="https://github.com/YaroslavButorin/YaroslavButorin/blob/main/sprint_23v3_1683665870%20(1).png">Полная карта навыков python-developer</a>
 
